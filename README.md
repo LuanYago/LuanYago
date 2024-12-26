@@ -10,7 +10,7 @@
 
 🔥 Linguagens Mais Usadas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanYago&layout=compact&theme=radical)
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanYago&layout=compact&theme=radical)
 ---
 📫 Entre em contato comigo por:
 - **Email:** [luanyagoc@gmail.com](mailto:luanyagoc@gmail.com)
