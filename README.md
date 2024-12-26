@@ -2,5 +2,7 @@
 
 ### 🔶 [Trust](https://github.com/seu-usuario/trust) Linguagem Compilada em Rust OBS: futuro projeto
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
 📫 Entre em contato comigo por:
 - **Email:** [luanyagoc@gmail.com](mailto:luanyagoc@gmail.com)
