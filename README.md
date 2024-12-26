@@ -2,7 +2,8 @@
 
 ### Projetos:
 
-### 🚀 [Trust](https://github.com/seu-usuario/trust) Linguagem Compilada em Rust ##### OBS: futuro projeto
+### 🚀 [Trust](https://github.com/seu-usuario/trust) Linguagem Compilada em Rust 
+##### OBS: futuro projeto
 ---
 
 🔥 Linguagens Mais Usadas:
