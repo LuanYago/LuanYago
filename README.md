@@ -4,4 +4,4 @@
 Linguagem de programação [uma linguagem compilada escrita em rust.].
 
 📫 Entre em contato comigo por:
-- **Email:** [seu-email@example.com](mailto:luanyagoc@gmail.com)
+- **Email:** [luanyagoc@gmail.com](mailto:luanyagoc@gmail.com)
