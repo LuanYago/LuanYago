@@ -1,5 +1,5 @@
-## Oii eu sou o luan, desenvolvedor full stack e mobile mas partiluar gosto mais de baixo nivel🙄
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanYago&show_icons=true&theme=radical)
+# Oii eu sou o luan, desenvolvedor Full Stack e Mobile, mas particularmente gosto mais de programaçao de baixo nivel🙄
+
 ### 🔶 [Trust](https://github.com/seu-usuario/trust)
 Linguagem de programação [uma linguagem compilada escrita em rust.].
 
