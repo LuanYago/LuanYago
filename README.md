@@ -3,6 +3,7 @@
 ### 🚀 [Trust](https://github.com/seu-usuario/trust) Linguagem Compilada em Rust OBS: futuro projeto
 
 🔥 Linguagens Mais Usadas:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanYago&layout=compact&theme=radical)
 
 📫 Entre em contato comigo por:
