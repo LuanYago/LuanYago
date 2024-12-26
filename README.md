@@ -1,4 +1,5 @@
-## Oii eu sou o luan, desenvolvedor Full Stack e Mobile, mas particularmente gosto mais de programaçao de baixo nivel🙄
+## Oii eu sou o luan, desenvolvedor Full Stack e Mobile, mas o que gosto msm é programação de baixo nivel🙄
+### Trabalho com java☕ para desenvolvimento mobile e com php🐘 - laravel para desenvolvimento web
 
 ### Projetos:
 
