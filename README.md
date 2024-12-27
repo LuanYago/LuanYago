@@ -16,5 +16,6 @@
 ![Static Badge](https://img.shields.io/badge/Java-%23F96702?style=for-the-badge&logo=mocha&labelColor=black)
 
 ---
-📫 Entre em contato comigo por:
-- **Email:** [luanyagoc@gmail.com](mailto:luanyagoc@gmail.com)
+## 🌐 Minhas Redes Sociais
+
+[Instagram](https://www.instagram.com/luanyago__/).
