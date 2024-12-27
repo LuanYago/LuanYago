@@ -18,4 +18,4 @@
 ---
 ## 🌐 Minhas Redes Sociais
 
-[Instagram](https://www.instagram.com/luanyago__/).
+Instagram: [luanyago__](https://www.instagram.com/luanyago__/).
