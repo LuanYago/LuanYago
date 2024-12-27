@@ -13,12 +13,12 @@
 | Linguagem      | Experiência   | Observações          |
 |----------------|---------------|----------------------|
 | 🐍 Python      | Avançado      | Scripts e automações |
-| 🖋️ JavaScript | Intermediário | Frontend              |
-| 🛠️ PHP         | Intermediário | Desenvolvimento Web  |
-| 🚀 Rust        | Iniciante     | Foco em desempenho   |
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) | Intermediário | Frontend              |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)         | Intermediário | Desenvolvimento Web  |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)       | Iniciante     | Foco em desempenho   |
+
+
+
 
 ---
 📫 Entre em contato comigo por:
