@@ -4,7 +4,7 @@
 ---
 ### 🚀 Projetos:
 
-### 🔗 [Trust](https://github.com/seu-usuario/trust) Linguagem Compilada em Rust 
+### 🔗 [Trosty](https://github.com/seu-usuario/trust) Linguagem Compilada em Rust 
 ##### OBS: futuro projeto
 ---
 
