@@ -6,16 +6,13 @@
 
 ### 🔗 [Trosty](https://github.com/seu-usuario/trust) Linguagem Compilada em Rust 
 ##### OBS: futuro projeto
----
-
-## 🛠️ Linguagens que utilizo
-
-![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
-![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust)
-![Static Badge](https://img.shields.io/badge/Java-%23F96702?style=for-the-badge&logo=mocha&labelColor=black)
 
 ---
 ## 🌐 Minhas Redes Sociais
 
 Instagram: [luanyago__](https://www.instagram.com/luanyago__/).
+
+![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust)
+![Static Badge](https://img.shields.io/badge/Java-%23F96702?style=for-the-badge&logo=mocha&labelColor=black)
