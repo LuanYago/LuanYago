@@ -11,7 +11,6 @@
 ## 🛠️ Linguagens que utilizo
 
 ![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
-
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Rust-%23ffffff?style=for-the-badge&logo=rust&labelColor=black)
  
