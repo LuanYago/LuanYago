@@ -12,7 +12,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white)        
-![Rust](https://img.shields.io/badge/-000000?style=for-the-badge&logo=rust&logoColor=white)       
+![Static Badge](https://img.shields.io/badge/Rust-%23ffffff?style=for-the-badge&logo=rust&labelColor=black)
+ 
 
 
 
