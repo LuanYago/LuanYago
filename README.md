@@ -8,9 +8,15 @@
 ##### OBS: futuro projeto
 ---
 
-🔥 Linguagens Mais Usadas:
+## 🛠️ Linguagens que utilizo
 
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanYago&layout=compact&theme=radical)
+| Linguagem      | Experiência   | Observações          |
+|----------------|---------------|----------------------|
+| 🐍 Python      | Avançado      | Scripts e automações |
+| 🖋️ JavaScript | Intermediário | Frontend              |
+| 🛠️ PHP         | Intermediário | Desenvolvimento Web  |
+| 🚀 Rust        | Iniciante     | Foco em desempenho   |
+
 ---
 📫 Entre em contato comigo por:
 - **Email:** [luanyagoc@gmail.com](mailto:luanyagoc@gmail.com)
