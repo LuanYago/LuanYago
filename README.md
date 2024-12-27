@@ -13,9 +13,9 @@
 | Linguagem      | Experiência   | Observações          |
 |----------------|---------------|----------------------|
 | 🐍 Python      | Avançado      | Scripts e automações |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) | Intermediário | Frontend              |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)         | Intermediário | Desenvolvimento Web  |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)       | Iniciante     | Foco em desempenho   |
+| ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) | Intermediário | Frontend              |
+| ![PHP](https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white)         | Intermediário | Desenvolvimento Web  |
+| ![Rust](https://img.shields.io/badge/-000000?style=for-the-badge&logo=rust&logoColor=white)       | Iniciante     | Foco em desempenho   |
 
 
 
