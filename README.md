@@ -10,12 +10,9 @@
 
 ## 🛠️ Linguagens que utilizo
 
-| Linguagem      | Experiência   | Observações          |
-|----------------|---------------|----------------------|
-| 🐍 Python      | Avançado      | Scripts e automações |
-| ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) | Intermediário | Frontend              |
-| ![PHP](https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white)         | Intermediário | Desenvolvimento Web  |
-| ![Rust](https://img.shields.io/badge/-000000?style=for-the-badge&logo=rust&logoColor=white)       | Iniciante     | Foco em desempenho   |
+![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
+![PHP](https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white)        
+![Rust](https://img.shields.io/badge/-000000?style=for-the-badge&logo=rust&logoColor=white)       
 
 
 
