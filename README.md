@@ -13,9 +13,9 @@ Instagram: [luanyago__](https://www.instagram.com/luanyago__/).
 
 ---
 ### ⚙️ Dotfiles
-#### - [Nvim](https://github.com/LuanYago/nvim)
-#### [Ghostty](https://github.com/LuanYago/ghostty)
-#### [IdeaVim](https://github.com/LuanYago/ideavimrc)
+- #### [Nvim](https://github.com/LuanYago/nvim)
+- #### [Ghostty](https://github.com/LuanYago/ghostty)
+- #### [IdeaVim](https://github.com/LuanYago/ideavimrc)
 
 
 ![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
