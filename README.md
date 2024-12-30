@@ -16,6 +16,9 @@ Instagram: [luanyago__](https://www.instagram.com/luanyago__/).
 - #### [Nvim](https://github.com/LuanYago/nvim)
 - #### [Ghostty](https://github.com/LuanYago/ghostty)
 - #### [IdeaVim](https://github.com/LuanYago/ideavimrc)
+- #### [Hyprland](https://github.com/LuanYago/hypr)
+- #### [Waybar](https://github.com/LuanYago/waybar)
+
 
 
 ![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
