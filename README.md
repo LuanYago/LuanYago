@@ -7,11 +7,11 @@
 ##### OBS: futuro projeto
 
 ---
-## 🌐 Minhas Redes Sociais
+### 🌐 Minhas Redes Sociais
 
 Instagram: [luanyago__](https://www.instagram.com/luanyago__/).
 
-## ⚙️ Configs
+### ⚙️ Configs
 #### [Nvim](https://github.com/LuanYago/nvim)
 #### [Ghostty](https://github.com/LuanYago/ghostty)
 #### [IdeaVim](https://github.com/LuanYago/ideavimrc)
