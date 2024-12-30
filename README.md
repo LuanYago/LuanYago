@@ -3,7 +3,7 @@
 ---
 ### Projetos:
 
-### 🔗 [Trosty](https://github.com/seu-usuario/trust) Linguagem Compilada em Rust 
+### 🔗 [Trosty](https://github.com/LuanYago/Trosty) Linguagem Compilada em Rust 
 ##### OBS: futuro projeto
 
 ---
@@ -11,6 +11,10 @@
 
 Instagram: [luanyago__](https://www.instagram.com/luanyago__/).
 
+## ⚙️ Configs
+#### [Nvim](https://github.com/LuanYago/nvim)
+#### [Ghostty](https://github.com/LuanYago/ghostty)
+#### [IdeaVim](https://github.com/LuanYago/ideavimrc)
 
 
 ![Static Badge](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
