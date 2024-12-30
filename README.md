@@ -11,6 +11,7 @@
 
 Instagram: [luanyago__](https://www.instagram.com/luanyago__/).
 
+---
 ### ⚙️ Configs
 #### [Nvim](https://github.com/LuanYago/nvim)
 #### [Ghostty](https://github.com/LuanYago/ghostty)
