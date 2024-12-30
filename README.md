@@ -1,13 +1,13 @@
 ## Oii eu sou o luan, desenvolvedor Full Stack e Mobile, mas o que gosto msm é baixo nivel🙄
 ### Trabalho com Java☕ no desenvolvimento mobile e com Php-Laravel no desenvolvimento web, pretendo aprender um framework frontend mas por enquanto o bom e velho jquery domina 
 ---
-### Projetos:
+### 📚 Projetos:
 
 ### 🔗 [Trosty](https://github.com/LuanYago/Trosty) Linguagem Compilada em Rust 
 ##### OBS: futuro projeto
 
 ---
-### 🌐 Minhas Redes Sociais
+### 🌐 Redes Sociais
 
 Instagram: [luanyago__](https://www.instagram.com/luanyago__/).
 
