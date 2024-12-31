@@ -4,7 +4,6 @@
 ### 📚 Projetos:
 
 ### 🔗 [Kuty](https://github.com/LuanYago/kuty) Linguagem Compilada em Rust 
-##### OBS: futuro projeto
 
 ---
 ### 🌐 Redes Sociais
