@@ -3,7 +3,7 @@
 ---
 ### 📚 Projetos:
 
-### 🔗 [Trosty](https://github.com/LuanYago/Trosty) Linguagem Compilada em Rust 
+### 🔗 [Kuty](https://github.com/LuanYago/kuty) Linguagem Compilada em Rust 
 ##### OBS: futuro projeto
 
 ---
