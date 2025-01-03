@@ -13,7 +13,7 @@ Instagram: [luanyago__](https://www.instagram.com/luanyago__/).
 ---
 ### ⚙️ Dotfiles
 - #### [Nvim](https://github.com/LuanYago/nvim)
-- #### [Ghostty](https://github.com/LuanYago/ghostty)
+- #### [Kitty](https://github.com/LuanYago/kitty)
 - #### [IdeaVim](https://github.com/LuanYago/ideavimrc)
 - #### [Hyprland](https://github.com/LuanYago/hypr)
 - #### [Waybar](https://github.com/LuanYago/waybar)
