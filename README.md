@@ -1,5 +1,5 @@
-## Oii eu sou o luan, desenvolvedor Full Stack e Mobile, mas o que realmente amo é baixo nivel🙄
-### Trabalho com Java☕ no desenvolvimento mobile e com Php-Laravel no desenvolvimento web, pretendo aprender um framework frontend mas por enquanto o bom e velho jquery domina 
+## Oii eu sou o luan, desenvolvedor Mobile, com um pezinho em web🙄
+### Trabalho com Kotlin e java☕ no desenvolvimento android e com swift para Ios 
 ---
 ### 📚 Projetos:
 
